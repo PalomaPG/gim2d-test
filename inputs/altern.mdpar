@@ -1,0 +1,13 @@
+200                                # nasamp  -- don't decrease, but an increase will increase calculation time
+ 500.0 500.0 1.0 1000.0 1000.0      # Flux
+ 0.5 0.5 0.0 1.0 1.0                # B/T  (0=pure disk) 
+ 2.5 2.5 0.0 5.0 5.0                # bulge Re 
+ 0.35 0.35 0.0 0.7 0.7              # bulge e 
+ 90.0 90.0 -360.0 360.0 180.0       # bulge position angle
+ 2.5 2.5 0.0 5.0 5.0                # exponential disk scale length (h)
+ 10.0 50.0 0.0 90.0 90.0            # disk inclination (0=face-on)
+ 90.0 90.0 -360.0 360.0 180.0       # disk position angle
+ 0.0 0.0 -1.0 1.0 0.1               # subpixel x offset 
+ 0.0 0.0 -1.0 1.0 0.1               # subpixel x offset 
+ 72.81 72.81 72.81 72.81 0.0        # background level db in DU
+ 2.0 2.0 0.2 4.0 3.8                # bulge Sersic index nb (nb = 4 for de Vaucouleurs profile)
